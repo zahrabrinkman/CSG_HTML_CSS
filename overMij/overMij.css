@@ -44,15 +44,10 @@ th:hover {
 
 
 #F {
-  width: 10px;
-  height: 15px;
   opacity: 100%;
-  float: right;
 }
 
 #F2{
-  width: 15px;
-  height: 10px;
   opacity: 100%;
   float: right;
 }
