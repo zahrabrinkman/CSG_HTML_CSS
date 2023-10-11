@@ -25,7 +25,8 @@
   width: 100%;
   text-align: left;
   position: sticky;
-  display: block;
+  top: 0;
+  
 }
 
 .body{
