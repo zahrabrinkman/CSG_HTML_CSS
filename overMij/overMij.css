@@ -28,6 +28,10 @@
   top: 0;
 }
 
+#pijl{
+  font-size: 20px;
+}
+
 th:hover {
   background-color: rgba(0, 0, 0, 0.518);
 }
