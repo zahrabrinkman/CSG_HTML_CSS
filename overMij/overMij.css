@@ -44,12 +44,18 @@ th:hover {
 
 
 #F {
-  width: 70;
+  width: 100%;
   height: auto;
   opacity: 100%;
   float: right;
 }
 
+#F2{
+  width: auto;
+  height: 100%;
+  opacity: 100%;
+  float: right;
+}
 h {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 20px;
