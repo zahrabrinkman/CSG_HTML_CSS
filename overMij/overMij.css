@@ -20,8 +20,8 @@ img {
 .table{
   color: white;
   background-color: rgb(72, 72, 72);
-  padding-top: 14px;
-  padding-bottom: 14px;
+  padding-top: 16px;
+  padding-bottom: 16px;
   width: 100%;
   text-align: left;
   position: sticky;
@@ -37,8 +37,8 @@ img {
 }
 
 #F {
-  width: 40%;
-  height: 60%;
+  width: 150px;
+  height: 100px;
   opacity: 100%;
   float: right;
 }
