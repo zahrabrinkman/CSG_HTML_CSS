@@ -15,3 +15,12 @@ img {
   height: auto;
   opacity: 0.3;
 }
+
+.table{
+  color: white;
+  background-color: black;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  width: 100%;
+  text-align: left;
+}
