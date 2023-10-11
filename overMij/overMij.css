@@ -18,9 +18,9 @@ img {
 
 .table{
   color: white;
-  background-color: black;
-  padding-top: 12px;
-  padding-bottom: 12px;
+  background-color: rgb(102, 101, 101);
+  padding-top: 14px;
+  padding-bottom: 14px;
   width: 100%;
   text-align: left;
 }
