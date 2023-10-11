@@ -44,8 +44,8 @@ th:hover {
 
 
 #F {
-  width: 50%;
-  height: 60%;
+  width: 70;
+  height: auto;
   opacity: 100%;
   float: right;
 }
