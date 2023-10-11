@@ -23,4 +23,5 @@ img {
   padding-bottom: 14px;
   width: 100%;
   text-align: left;
+  position: sticky;
 }
